@@ -1,0 +1,2 @@
+# TH_Nuernberg_efi_Typst_Vorlage_Abschlussarbeit
+Kümmere dich nicht mehr um Konfigurationen, sondern starte direkt mit dem Schreiben deiner Abschlussarbeit.A typst template for writing reports and theses.
