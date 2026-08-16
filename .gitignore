@@ -1,0 +1,6 @@
+doc/
+tools/
+
+# Typst / Build-Ausgaben
+thesis.pdf
+_preview/
